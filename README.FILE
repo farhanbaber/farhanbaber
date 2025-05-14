@@ -50,7 +50,7 @@ A pixel-perfect replica of the food panda  Website built using HTML, CSS, and Ja
 
 ---
 
-### 🚗 Cars Showcase Website
+🚗 Cars Showcase Website
 A modern and responsive cars listing website to display car models and details.
 - 💡 Interactive UI with hover effects  
 - 🧩 Built using HTML, CSS, and vanilla JS  
@@ -58,15 +58,34 @@ A modern and responsive cars listing website to display car models and details.
 
 ---
 
-### ✈️ Pocket Visa – Airline Website
+✈️ Pocket Visa – Airline Website
 An airline booking front-end project with a sleek UI/UX experience.
 - 📱 Responsive across all devices  
 - 🧭 Multi-page design with booking flow  
 - 🔍 [Repository](https://github.com/farhanbaber/pocket-visa-airline)
 
 ---
+ 🌐 Deployment on Vercel
 
-### 🛠️ More Coming Soon...
+This project is **live on Vercel** 🚀 — a fast and reliable platform for deploying frontend and full-stack apps.
+
+🔗 || Live Demo ||  [Click Here to View](https://farhaanbaber.vercel.app)  
+🟢 **Status:** ✅ Deployed Successfully
+
+🛠️ Steps to Deploy on Vercel:
+
+1. Push your project to ||GitHub||
+2. Click || New Project || and import your repository
+3. Configure build settings if needed:
+   - For frontend-only: No build command needed (static)
+   - For backend (like Flask/Node): Set up proper API or build command
+4. Click || Deploy ||
+
+✨ That’s it! Vercel will build and host your project automatically, with every GitHub push.
+
+---
+
+ 🛠️ More Coming Soon...
 Stay tuned for more MERN stack full-stack applications and live deployments!
 
 
