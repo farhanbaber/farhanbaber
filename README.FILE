@@ -84,6 +84,56 @@ This project is **live on Vercel** 🚀 — a fast and reliable platform for dep
 ✨ That’s it! Vercel will build and host your project automatically, with every GitHub push.
 
 ---
+# 🚀 Introduction to API (Application Programming Interface)
+
+|| 📘 What is an API? ||
+
+An API (Application Programming Interface) is a set of rules that allows two software applications to communicate with each other.  
+It acts as a bridge between the frontend (client) and the backend (server).
+
+---
+
+|| 🍽️ Real-life Example ||
+
+Imagine a **waiter** in a restaurant. The waiter takes your order (request), goes to the kitchen (server), brings your food (response), and gives it to you.  
+Similarly, an API handles communication between your app and the server.
+
+---
+
+|| ⚙️ How Does an API Work? ||
+
+1. The Client sends a request to the API.
+2. The API forwards the request to the Server.
+3. The Server sends back a Response.
+4. The API delivers the response to the Client.
+
+---
+
+|| 🧰 Common Types of APIs ||
+
+- REST API – Uses HTTP methods (GET, POST, etc.) – Most widely used.
+- SOAP API – XML-based and more secure, but complex.
+- GraphQL – Used for more dynamic and flexible queries.
+
+---
+
+|| 🔑 Common HTTP Methods ||
+
+| Method  | Description                  |
+|---------|------------------------------|
+| GET     | Retrieve data                |
+| POST    | Send new data                |
+| PUT     | Update existing data         |
+| DELETE  | Delete data                  |
+
+---
+
+|| 🧪 Example API Call (Using Fetch) ||
+
+```javascript
+fetch('https://api.example.com/users')
+  .then(response => response.json())
+  .then(data => console.log(data));
 
  🛠️ More Coming Soon...
 Stay tuned for more MERN stack full-stack applications and live deployments!
