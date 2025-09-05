@@ -4,6 +4,16 @@
 
 <h1 align="center">Hi 👋, I'm Farhan baber!</h1>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=farhanbaber&show_icons=true&locale=en&theme=shades-of-purple&count_private=true&hide_border=true" alt="farhanbaber's GitHub Stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanbaber&locale=en&theme=shades-of-purple&layout=compact&hide_border=true" alt="Top Languages" /></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=farhanbaber&theme=shades-of-purple&hide_border=true" alt="GitHub Streak Stats" /></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=farhanbaber&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/farhanbaber" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @farhanbaber" /></a>
+</p>
+
 <h3 align="center">Transforming logic into impact — mastering MERN to architect tomorrow’s systems. Not just coding || but engineering purposeful digital change</h3>
 
 <h3 align="left">More About Me:</h3>
@@ -48,13 +58,3 @@
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" style="vertical-align: middle; margin: 5px;" />
 </p>
 </div>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=farhanbaber&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="farhanbaber's GitHub Stats" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanbaber&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
-
-<p align="center"><img src="https://streak-stats.demolab.com/?user=farhanbaber&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farhanbaber&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/farhanbaber" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @farhanbaber" /></a>
-</p>
