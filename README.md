@@ -96,9 +96,12 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <a href="https://farhanstackio.vercel.app/">
- <img src="https://i.postimg.cc/qR7y0FvN/Screenshot-2026-03-24-214149.png" width="80%" style="border-radius:20px; border: 4px solid #D4AF37; box-shadow: 0 0 25px rgba(212, 175, 55, 0.5);" />
-      </a>
+     <a href="https://farhanstackio.vercel.app/">
+  <img src="https://github.com/user-attachments/assets/1933645a-a07a-4266-bb79-510d7c7800dc" 
+       width="80%" 
+       style="border-radius:20px; border: 4px solid #D4AF37; box-shadow: 0 0 25px rgba(212, 175, 55, 0.5);" 
+       alt="Codanix Portfolio" />
+</a>
       <br /><strong>🌐 Software chitect Portfolio </strong>
     </td>
   </tr>
