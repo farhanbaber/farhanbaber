@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=250&section=header&text=FARHAN%20BABER&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff" alt="Farhan Baber Header" />
+<img src="![mypic](https://github.com/user-attachments/assets/5d98c726-48be-423b-b995-5bbb27d891c4)
+alt="Farhan Baber Header" />
+<img width="1345" height="631" alt="Screenshot 2026-04-02 004546" src="https://github.com/user-attachments/assets/d6e1ee03-0763-47ca-aa81-e311e371c90b" />
+
 
 ## 🏛️ Full-Stack Software Architect
 **"Engineering high-performance digital systems with MERN & TypeScript."**
@@ -40,17 +43,20 @@
 <table border="0">
   <tr>
     <td width="33%" align="center">
-      <img src="PROJECT_1_IMAGE_URL" width="100%" style="border-radius:10px; border: 2px solid #D4AF37;" /><br />
+      <img src="<img width="1345" height="631" alt="Screenshot 2026-04-02 004546" src="https://github.com/user-attachments/assets/802a2e00-9b6f-4c19-8ad5-3ec18ff208c1" />
+" width="100%" style="border-radius:10px; border: 2px solid #D4AF37;" /><br />
       <strong>💎 Luxury Jewelry E-Com</strong><br />
       <a href="PROJECT_1_LINK">Live Demo</a>
     </td>
     <td width="33%" align="center">
-      <img src="PROJECT_2_IMAGE_URL" width="100%" style="border-radius:10px; border: 2px solid #D4AF37;" /><br />
+      <img src="<img width="579" height="327" alt="Screenshot 2026-03-28 150549" src="https://github.com/user-attachments/assets/e6cf8bf7-fa32-460c-893d-d60498233dd3" />
+" width="100%" style="border-radius:10px; border: 2px solid #D4AF37;" /><br />
       <strong>🏥 Health & Fitness SaaS</strong><br />
       <a href="PROJECT_2_LINK">Live Demo</a>
     </td>
     <td width="33%" align="center">
-      <img src="PROJECT_3_IMAGE_URL" width="100%" style="border-radius:10px; border: 2px solid #D4AF37;" /><br />
+      <img src="<img width="1343" height="627" alt="Screenshot 2026-03-24 214149" src="https://github.com/user-attachments/assets/08fcf68d-5ccd-4e92-8784-7d45e9d5da53" />
+" width="100%" style="border-radius:10px; border: 2px solid #D4AF37;" /><br />
       <strong>💬 Real-time Chat App</strong><br />
       <a href="PROJECT_3_LINK">Live Demo</a>
     </td>
