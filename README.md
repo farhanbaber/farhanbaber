@@ -84,46 +84,128 @@
 </div>
 
 ---
+<div align="center">
 
-## 💼 Premium Portfolio Showcase (Live Links Attached)
-*Images par click karein live demo dekhne ke liye.*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000&height=300&section=header&text=FARHAN%20BABER&fontSize=90&fontAlignY=40&animation=twinkling&fontColor=D4AF37" alt="Farhan Baber" />
+
+### 🏛️ THE DIGITAL ARCHITECT | FULL-STACK VISIONARY
+*"Evolution is constant. From Bio-Science to Software Architecture, I build the future."*
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=MERN+Stack+Specialist;Next.js+Expert;High-End+UI%2FUX+Designer;System+Architect)](https://git.io/typing-svg)
+
+---
+
+<table border="0">
+  <tr>
+    <td align="center">
+      <div style="border: 1px solid #D4AF37; padding: 15px; border-radius: 12px; background: rgba(212, 175, 55, 0.05); width: 170px; min-height: 120px;">
+        <img src="https://img.icons8.com/ios-filled/50/D4AF37/graduation-cap.png" width="35"/><br/>
+        <strong style="color: #D4AF37;">Software Engineering</strong><br/>
+        <small>Academic Excellence</small>
+      </div>
+    </td>
+    <td align="center">
+      <div style="border: 1px solid #D4AF37; padding: 15px; border-radius: 12px; background: rgba(212, 175, 55, 0.05); width: 170px; min-height: 120px;">
+        <img src="https://img.icons8.com/ios-filled/50/D4AF37/artificial-intelligence.png" width="35"/><br/>
+        <strong style="color: #D4AF37;">AI Enthusiast</strong><br/>
+        <small>Neural Automation</small>
+      </div>
+    </td>
+    <td align="center">
+      <div style="border: 1px solid #D4AF37; padding: 15px; border-radius: 12px; background: rgba(212, 175, 55, 0.05); width: 170px; min-height: 120px;">
+        <img src="https://img.icons8.com/ios-filled/50/D4AF37/source-code.png" width="35"/><br/>
+        <strong style="color: #D4AF37;">Web Developer</strong><br/>
+        <small>MERN Stack Mastery</small>
+      </div>
+    </td>
+    <td align="center">
+      <div style="border: 1px solid #D4AF37; padding: 15px; border-radius: 12px; background: rgba(212, 175, 55, 0.05); width: 170px; min-height: 120px;">
+        <img src="https://img.icons8.com/ios-filled/50/D4AF37/conference-call.png" width="35"/><br/>
+        <strong style="color: #D4AF37;">IT Consulting</strong><br/>
+        <small>Strategic Solutions</small>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+</div>
+
+## 📜 The Odyssey (My Journey)
+
+### 🏫 Foundation: Schooling (Bio-Science)
+* **The Shift:** Biology se logic aur structures ka shauk paida hua, jo baad mein code architecture mein badal gaya.
+
+### 🎓 Specialization: College (Pre-Engineering)
+* **Growth:** Engineering mindset ne complex problem-solving seekhayi jo aaj MERN stack mein kaam aati hai.
+
+### ⚡ Mastery: SMIT (Full-Stack Development)
+* **Result:** Industry-level coding, real-time databases, aur advanced React patterns par grip hasil ki.
+
+---
+
+## 💼 Premium Portfolio Showcase (Live Links)
 
 <div align="center">
 <table border="0">
   <tr>
     <td width="50%" align="center">
       <a href="https://fayazjewellers.vercel.app/">
-        <img src="https://github.com/user-attachments/assets/0b340f57-ed33-44a6-950b-058bc5bb6d71" width="100%" style="border-radius:20px; border: 4px solid #D4AF37; box-shadow: 0 0 25px rgba(212, 175, 55, 0.6);" />
+        <img src="https://github.com/user-attachments/assets/0b340f57-ed33-44a6-950b-058bc5bb6d71" width="100%" style="border-radius:20px; border: 4px solid #D4AF37; box-shadow: 0 0 20px rgba(212, 175, 55, 0.4);" />
       </a>
       <br /><strong>💎 Fayaz Jewellers (Luxury E-Com)</strong>
-      <p>Built for: <i>Fayaz Baber (Goldsmith)</i><br>Pure luxury UI with an advanced cart system.</p>
     </td>
     <td width="50%" align="center">
       <a href="https://physioartpk.vercel.app/">
-        <img src="https://github.com/user-attachments/assets/0871962e-63d1-4add-ba4d-ca8d30f74a4a" width="100%" style="border-radius:20px; border: 4px solid #D4AF37; box-shadow: 0 0 25px rgba(212, 175, 55, 0.6);" />
+        <img src="https://github.com/user-attachments/assets/0871962e-63d1-4add-ba4d-ca8d30f74a4a" width="100%" style="border-radius:20px; border: 4px solid #D4AF37; box-shadow: 0 0 20px rgba(212, 175, 55, 0.4);" />
       </a>
       <br /><strong>🏥 PhysioArt PK (Medical SaaS)</strong>
-      <p>Built for: <i>Ramsha Baber (Physiotherapist)</i><br>Health tracking & service management platform.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://farhanstackio.vercel.app/">
-        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/images/mac_frame.png" width="100%" style="border-radius:20px; border: 4px solid #D4AF37;" />
+        <img src="https://i.postimg.cc/qR7y0FvN/Screenshot-2026-03-24-214149.png" width="100%" style="border-radius:20px; border: 4px solid #D4AF37; box-shadow: 0 0 20px rgba(212, 175, 55, 0.4);" />
       </a>
-      <br /><strong>🌐 Architect Portfolio</strong>
-      <p>My personal branding site built with high-end animations and MERN logic.</p>
+      <br /><strong>🌐 Codanix Architect Portfolio</strong>
     </td>
     <td width="50%" align="center">
-      <img src="https://repository-images.githubusercontent.com/284344474/e33d4280-d667-11ea-9c3f-c67f0b540203" width="100%" style="border-radius:20px; border: 4px solid #D4AF37;" />
-      <br /><strong>💬 Real-Time Nexus Chat</strong>
-      <p>Full-scale communication engine using WebSockets & MongoDB.</p>
+      <div style="border: 2px solid #D4AF37; padding: 25px; border-radius: 20px; background: rgba(212, 175, 55, 0.05); min-height: 150px;">
+        <img src="https://img.icons8.com/ios-filled/100/D4AF37/trophy.png" width="50" />
+        <br /><strong>🏆 Major Achievements</strong>
+        <p><small>• MERN Stack Expert Certification<br>• SMIT Strategic Development Mastery<br>• Luxury UI/UX Excellence Award</small></p>
+      </div>
     </td>
   </tr>
 </table>
 </div>
 
 ---
+
+## 📈 Engineering Performance (Bullish Momentum)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanbaber&theme=github-compact&bg_color=000&color=39d353&line=39d353&point=D4AF37&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🤝 Connect & Collaborate
+<div align="center">
+
+| Channel | Link |
+| :--- | :--- |
+| 📧 **Email** | [farhanbaber965@gmail.com](mailto:farhanbaber965@gmail.com) |
+| 💼 **LinkedIn** | [Connect on LinkedIn](http://linkedin.com/in/farhan-b-417a5034b) |
+| 🌍 **Portfolio** | [farhanbaber.me](https://farhanstackio.vercel.app/) |
+
+<br />
+
+<img src="https://img.shields.io/badge/Status-Available_for_Projects-D4AF37?style=for-the-badge&logo=github" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=100&section=footer" />
+
+</div>
 
 ## 📊 Engineering Analytics Dashboard
 <div align="center">
