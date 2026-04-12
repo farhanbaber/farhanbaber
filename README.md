@@ -69,11 +69,17 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <div style="border: 2px solid #D4AF37; padding: 20px; border-radius: 20px; background: #000;">
-        <h3>💬 Real-Time Nexus Chat (Coming Soon)</h3>
-        <p>A full-scale communication engine using WebSockets and MongoDB Atlas.</p>
-      </div>
+    <td width="50%" align="center">
+      <a href="https://farhanstackio.vercel.app/">
+        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/images/mac_frame.png" width="100%" style="border-radius:20px; border: 4px solid #D4AF37;" />
+      </a>
+      <br /><strong>🌐 Architect Portfolio</strong>
+      <p>My personal branding site built with high-end animations and MERN logic.</p>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://repository-images.githubusercontent.com/284344474/e33d4280-d667-11ea-9c3f-c67f0b540203" width="100%" style="border-radius:20px; border: 4px solid #D4AF37;" />
+      <br /><strong>💬 Real-Time Nexus Chat</strong>
+      <p>Full-scale communication engine using WebSockets & MongoDB.</p>
     </td>
   </tr>
 </table>
@@ -90,13 +96,6 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanbaber&theme=dark&background=000&fire=D4AF37&ring=D4AF37&currStreakNum=D4AF37&sideNums=fff&sideLabels=fff&dates=fff&hide_border=true" width="95%" />
 </div>
-
----
-
-## 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/farhanbaber/farhanbaber/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</p>
 
 ---
 
@@ -121,4 +120,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Available_for_Projects-D4AF37?style=for-the-badge&logo=github" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=100&section=footer" />
+
 </div>
