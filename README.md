@@ -113,11 +113,12 @@
 | Channel | Link |
 | :--- | :--- |
 | 📧 **Official Email** | [farhanbaber965@gmail.com](mailto:farhanbaber965@gmail.com) |
-| 💼 **LinkedIn** | [Connect on LinkedIn](https://linkedin.com/in/farhanbaber) |
-| 🌍 **Portfolio** | [farhanbaber.me](https://farhanbaber.me) |
+| 💼 **LinkedIn** | [Connect on LinkedIn](http://linkedin.com/in/farhan-b-417a5034b) |
+| 🌍 **Portfolio** | [farhanbaber.me](https://farhanstackio.vercel.app/) |
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=100&section=footer" />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available_for_Projects-D4AF37?style=for-the-badge&logo=github" />
+</p>
 </div>
