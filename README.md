@@ -1,71 +1,58 @@
 <div align="center">
 
-<img src="![mypic](https://github.com/user-attachments/assets/5d98c726-48be-423b-b995-5bbb27d891c4)
-alt="Farhan Baber Header" />
-<img width="1345" height="631" alt="Screenshot 2026-04-02 004546" src="https://github.com/user-attachments/assets/d6e1ee03-0763-47ca-aa81-e311e371c90b" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=250&section=header&text=FARHAN%20BABER&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff" alt="Farhan Baber" />
 
-
-## 🏛️ Full-Stack Software Architect
-**"Engineering high-performance digital systems with MERN & TypeScript."**
+## 🏛️ Full-Stack Software Architect | MERN Specialist
+*"Mastering logic to engineer purposeful digital change."*
 
 ---
 
-### 🛠️ Technical Powerhouse
-**Languages & Core Tech**
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
+<div align="left">
 
-**Frameworks & Styling**
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+### 👨‍💻 About Me
+* 💼 **Software Architect** specializing in Full-Stack Web Applications (**MERN**).
+* 🎓 **Software Engineering** aspirant focused on scalable system design.
+* 🚀 **Project Lead** at various digital ventures, focusing on performance & security.
+* 🛠️ **Problem Solver** dedicated to transforming complex logic into premium user experiences.
+* 📧 **Email:** [farhanbaber965@gmail.com](mailto:farhanbaber965@gmail.com)
 
-**Database & Backend Services**
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 💼 Featured Client Projects (Live Deployments)
+<div align="left">
 
+### 🛠️ Technical Arsenal
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS, Bootstrap |
+| **Backend** | Node.js, Express.js, PHP, Socket.io |
+| **Database** | MongoDB Atlas, MySQL, Firebase |
+| **Tools** | Git, Postman, Vercel, Figma, Cursor AI |
+
+</div>
+
+---
+
+### 💼 Featured Projects
 <table border="0">
   <tr>
-    <td width="33%" align="center">
-      <img src="<img width="1345" height="631" alt="Screenshot 2026-04-02 004546" src="https://github.com/user-attachments/assets/802a2e00-9b6f-4c19-8ad5-3ec18ff208c1" />
-" width="100%" style="border-radius:10px; border: 2px solid #D4AF37;" /><br />
-      <strong>💎 Luxury Jewelry E-Com</strong><br />
-      <a href="PROJECT_1_LINK">Live Demo</a>
+    <td width="50%" align="center">
+      <img src="YOUR_PROJECT_1_IMAGE" width="100%" style="border-radius:10px; border: 2px solid #D4AF37;" /><br />
+      <strong>💎 Fayaz Jewellers (E-Com)</strong><br />
+      <a href="#">View Repository</a> | <a href="#">Live Demo</a>
     </td>
-    <td width="33%" align="center">
-      <img src="<img width="579" height="327" alt="Screenshot 2026-03-28 150549" src="https://github.com/user-attachments/assets/e6cf8bf7-fa32-460c-893d-d60498233dd3" />
-" width="100%" style="border-radius:10px; border: 2px solid #D4AF37;" /><br />
+    <td width="50%" align="center">
+      <img src="YOUR_PROJECT_2_IMAGE" width="100%" style="border-radius:10px; border: 2px solid #D4AF37;" /><br />
       <strong>🏥 Health & Fitness SaaS</strong><br />
-      <a href="PROJECT_2_LINK">Live Demo</a>
-    </td>
-    <td width="33%" align="center">
-      <img src="<img width="1343" height="627" alt="Screenshot 2026-03-24 214149" src="https://github.com/user-attachments/assets/08fcf68d-5ccd-4e92-8784-7d45e9d5da53" />
-" width="100%" style="border-radius:10px; border: 2px solid #D4AF37;" /><br />
-      <strong>💬 Real-time Chat App</strong><br />
-      <a href="PROJECT_3_LINK">Live Demo</a>
+      <a href="#">View Repository</a> | <a href="#">Live Demo</a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Engineering Excellence & Stats
+### 📊 Engineering Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farhanbaber&show_icons=true&theme=tokyonight&bg_color=000&title_color=D4AF37&text_color=fff&icon_color=D4AF37&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanbaber&layout=compact&theme=tokyonight&bg_color=000&title_color=D4AF37&text_color=fff&hide_border=true" width="45%" />
@@ -78,8 +65,7 @@ alt="Farhan Baber Header" />
 ---
 
 <p align="center">
-  <a href="mailto:farhanbaber965@gmail.com"><img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:farhanbaber965@gmail.com"><img src="https://img.shields.io/badge/Connect_With_Me-D4AF37?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=60&section=footer" />
