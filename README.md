@@ -140,17 +140,37 @@
 </p>
 
 ---
+---
 
-## 📊 Engineering Analytics Dashboard
+## 💹 Digital Asset Analytics (Market Performance)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhanbaber&show_icons=true&theme=dark&bg_color=000&title_color=D4AF37&text_color=fff&icon_color=D4AF37&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanbaber&layout=compact&theme=dark&bg_color=000&title_color=D4AF37&text_color=fff&hide_border=true" width="45%" />
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanbaber&theme=react-dark&bg_color=000&color=39d353&line=39d353&point=D4AF37&area=true&hide_border=true" width="95%" />
+
   <br />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanbaber&theme=dark&background=000&fire=D4AF37&ring=D4AF37&currStreakNum=D4AF37&sideNums=fff&sideLabels=fff&dates=fff&hide_border=true" width="95%" />
+
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=farhanbaber&show_icons=true&theme=dark&bg_color=000&title_color=D4AF37&text_color=fff&icon_color=39d353&hide_border=true&count_private=true" width="400px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanbaber&layout=compact&theme=dark&bg_color=000&title_color=D4AF37&text_color=fff&hide_border=true" width="350px" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanbaber&theme=dark&background=000&fire=39d353&ring=D4AF37&currStreakNum=39d353&sideNums=fff&sideLabels=fff&dates=fff&hide_border=true" width="95%" />
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Market_Status-BULLISH-39d353?style=for-the-badge&logo=trending-up&logoColor=black" />
+    <img src="https://img.shields.io/badge/Repo_Volatility-STABLE-D4AF37?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Growth_Recommendation-STRONG_BUY-white?style=for-the-badge" />
+  </p>
 </div>
 
+---
 ---
 
 ## 🤝 Connect for Executive Collaborations
