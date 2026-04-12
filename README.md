@@ -107,7 +107,7 @@
 ## 💹 Digital Asset Performance (Candlestick Analytics)
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=farhanbaber&layout=compact&theme=dark&bg_color=000&title_color=D4AF37&text_color=fff&hide_border=true" width="95%" />
+
 
 <br />
 
