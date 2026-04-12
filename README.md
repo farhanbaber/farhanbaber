@@ -73,7 +73,10 @@
 
 ---
 
-## 💼 Premium Portfolio Showcase (Live Links)
+---
+
+## 💼 Premium Portfolio Showcase (Live Links Attached)
+*Images par click karein live demo dekhne ke liye.*
 
 <div align="center">
 <table border="0">
@@ -92,21 +95,31 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td colspan="2" align="center">
       <a href="https://farhanstackio.vercel.app/">
-<img src="https://i.postimg.cc/qR7y0FvN/Screenshot-2026-03-24-214149.png" width="100%" style="border-radius:20px; border: 4px solid #D4AF37; box-shadow: 0 0 20px rgba(212, 175, 55, 0.4);" />      </a>
-      <br /><strong>🌐 Codanix Architect Portfolio</strong>
+        <img src="https://i.postimg.cc/qR7y0FvN/Screenshot-2026-03-24-214149.png" width="80%" style="border-radius:20px; border: 4px solid #D4AF37; box-shadow: 0 0 25px rgba(212, 175, 55, 0.5);" />
+      </a>
+      <br /><strong>🌐 Codanix Architect Portfolio (Featured)</strong>
     </td>
-    <td width="50%" align="center">
-      <div style="border: 2px solid #D4AF37; padding: 25px; border-radius: 20px; background: rgba(212, 175, 55, 0.05); min-height: 150px;">
-        <img src="https://img.icons8.com/ios-filled/100/D4AF37/trophy.png" width="50" />
-        <br /><strong>🏆 Major Achievements</strong>
-        <p><small>• MERN Stack Expert Certification<br>• SMIT Strategic Development Mastery<br>• Luxury UI/UX Excellence Award</small></p>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <div style="border: 2px solid #D4AF37; padding: 30px; border-radius: 20px; background: rgba(212, 175, 55, 0.08); margin-top: 20px;">
+        <img src="https://img.icons8.com/ios-filled/100/D4AF37/trophy.png" width="70" />
+        <br />
+        <h3 style="color: #D4AF37; margin-top: 10px;">🏆 MASTER ARCHITECT ACHIEVEMENTS</h3>
+        <p style="color: #fff; font-size: 16px;">
+          • <b>MERN Stack Expert:</b> Full-Stack Certification & Mastery<br>
+          • <b>SMIT Graduate:</b> Strategic Software Development Journey<br>
+          • <b>UI/UX Specialist:</b> Premium Luxury Design Excellence
+        </p>
       </div>
     </td>
   </tr>
 </table>
 </div>
+
+---
 
 ---
 
