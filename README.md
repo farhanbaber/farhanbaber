@@ -1,7 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000&height=300&section=header&text=FARHAN%20BABER&fontSize=90&fontAlignY=40&animation=twinkling&fontColor=D4AF37" alt="Farhan Baber" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000&height=180&section=header&text=FARHAN%20BABER&fontSize=80&fontAlignY=50&animation=fadeIn&fontColor=D4AF37&stroke=D4AF37&strokeWidth=1" alt="Farhan Baber" />
 
+
+ 
 ### 🏛️ THE DIGITAL ARCHITECT | FULL-STACK VISIONARY
 *"Evolution is constant. From Bio-Science to Software Architecture, I build the future."*
 
@@ -102,7 +104,7 @@
        style="border-radius:20px; border: 4px solid #D4AF37; box-shadow: 0 0 25px rgba(212, 175, 55, 0.5);" 
        alt="Codanix Portfolio" />
 </a>
-      <br /><strong>🌐 Software chitect Portfolio </strong>
+      <br /><strong>🌐 Software Architect Portfolio </strong>
     </td>
   </tr>
   <tr>
