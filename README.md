@@ -38,7 +38,7 @@
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="YOUR_PROJECT_1_IMAGE" width="100%" style="border-radius:10px; border: 2px solid #D4AF37;" /><br />
+      <img src="https://github.com/user-attachments/assets/0b340f57-ed33-44a6-950b-058bc5bb6d71" width="100%" style="border-radius:10px; border: 2px solid #D4AF37;" /><br />
       <strong>💎 Fayaz Jewellers (E-Com)</strong><br />
       <a href="#">View Repository</a> | <a href="#">Live Demo</a>
     </td>
