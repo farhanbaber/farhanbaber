@@ -98,12 +98,20 @@
 </div>
 
 ---
+---
 
-## 🗓️ 3D Contribution Universe
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhanbaber&theme=217" width="100%" />
-</div>
+## 💹 Digital Asset Performance (Engineering Growth)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanbaber&theme=github-compact&bg_color=000&color=39d353&line=39d353&point=D4AF37&area=true&hide_border=true" width="100%" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Market_Sentiment-BULLISH-39d353?style=for-the-badge&logo=trending-up&logoColor=black" />
+  <img src="https://img.shields.io/badge/Skill_Volatility-LOW-D4AF37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Output-HIGH_YIELD-white?style=for-the-badge" />
+</p>
+
+---
 ---
 
 ## 🤝 Connect for Executive Collaborations
