@@ -11,40 +11,44 @@
 
 ---
 
+---
+
 <div align="center">
   <table border="0">
     <tr>
       <td align="center">
-        <div style="border: 1px solid #D4AF37; padding: 15px; border-radius: 12px; background: rgba(212, 175, 55, 0.05); width: 180px; min-height: 100px;">
-          <img src="https://img.icons8.com/ios-filled/50/D4AF37/software-engineer.png" width="30"/><br/>
+        <div style="border: 1px solid #D4AF37; padding: 15px; border-radius: 12px; background: rgba(212, 175, 55, 0.05); width: 180px; min-height: 120px;">
+          <img src="https://img.icons8.com/ios-filled/50/D4AF37/graduation-cap.png" width="35"/><br/>
           <strong style="color: #D4AF37;">Software Engineering</strong><br/>
-          <small>Architecting Scalable Systems</small>
+          <small>Academic Excellence & System Design</small>
         </div>
       </td>
       <td align="center">
-        <div style="border: 1px solid #D4AF37; padding: 15px; border-radius: 12px; background: rgba(212, 175, 55, 0.05); width: 180px; min-height: 100px;">
-          <img src="https://img.icons8.com/ios-filled/50/D4AF37/artificial-intelligence.png" width="30"/><br/>
+        <div style="border: 1px solid #D4AF37; padding: 15px; border-radius: 12px; background: rgba(212, 175, 55, 0.05); width: 180px; min-height: 120px;">
+          <img src="https://img.icons8.com/ios-filled/50/D4AF37/artificial-intelligence.png" width="35"/><br/>
           <strong style="color: #D4AF37;">AI Enthusiast</strong><br/>
-          <small>Integrating Neural Logic</small>
+          <small>Integrating Neural Logic & Automation</small>
         </div>
       </td>
       <td align="center">
-        <div style="border: 1px solid #D4AF37; padding: 15px; border-radius: 12px; background: rgba(212, 175, 55, 0.05); width: 180px; min-height: 100px;">
-          <img src="https://img.icons8.com/ios-filled/50/D4AF37/web-design.png" width="30"/><br/>
+        <div style="border: 1px solid #D4AF37; padding: 15px; border-radius: 12px; background: rgba(212, 175, 55, 0.05); width: 180px; min-height: 120px;">
+          <img src="https://img.icons8.com/ios-filled/50/D4AF37/source-code.png" width="35"/><br/>
           <strong style="color: #D4AF37;">Web Developer</strong><br/>
-          <small>Premium MERN Experiences</small>
+          <small>Premium MERN Stack Experiences</small>
         </div>
       </td>
       <td align="center">
-        <div style="border: 1px solid #D4AF37; padding: 15px; border-radius: 12px; background: rgba(212, 175, 55, 0.05); width: 180px; min-height: 100px;">
-          <img src="https://img.icons8.com/ios-filled/50/D4AF37/consultation.png" width="30"/><br/>
+        <div style="border: 1px solid #D4AF37; padding: 15px; border-radius: 12px; background: rgba(212, 175, 55, 0.05); width: 180px; min-height: 120px;">
+          <img src="https://img.icons8.com/ios-filled/50/D4AF37/conference-call.png" width="35"/><br/>
           <strong style="color: #D4AF37;">IT Consulting</strong><br/>
-          <small>Strategic Tech Solutions</small>
+          <small>Strategic Business Tech Solutions</small>
         </div>
       </td>
     </tr>
   </table>
 </div>
+
+---
 
 ---
 ---
