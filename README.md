@@ -9,10 +9,44 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farhanbaber&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
+---
 
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <div style="border: 1px solid #D4AF37; padding: 15px; border-radius: 12px; background: rgba(212, 175, 55, 0.05); width: 180px; min-height: 100px;">
+          <img src="https://img.icons8.com/ios-filled/50/D4AF37/software-engineer.png" width="30"/><br/>
+          <strong style="color: #D4AF37;">Software Engineering</strong><br/>
+          <small>Architecting Scalable Systems</small>
+        </div>
+      </td>
+      <td align="center">
+        <div style="border: 1px solid #D4AF37; padding: 15px; border-radius: 12px; background: rgba(212, 175, 55, 0.05); width: 180px; min-height: 100px;">
+          <img src="https://img.icons8.com/ios-filled/50/D4AF37/artificial-intelligence.png" width="30"/><br/>
+          <strong style="color: #D4AF37;">AI Enthusiast</strong><br/>
+          <small>Integrating Neural Logic</small>
+        </div>
+      </td>
+      <td align="center">
+        <div style="border: 1px solid #D4AF37; padding: 15px; border-radius: 12px; background: rgba(212, 175, 55, 0.05); width: 180px; min-height: 100px;">
+          <img src="https://img.icons8.com/ios-filled/50/D4AF37/web-design.png" width="30"/><br/>
+          <strong style="color: #D4AF37;">Web Developer</strong><br/>
+          <small>Premium MERN Experiences</small>
+        </div>
+      </td>
+      <td align="center">
+        <div style="border: 1px solid #D4AF37; padding: 15px; border-radius: 12px; background: rgba(212, 175, 55, 0.05); width: 180px; min-height: 100px;">
+          <img src="https://img.icons8.com/ios-filled/50/D4AF37/consultation.png" width="30"/><br/>
+          <strong style="color: #D4AF37;">IT Consulting</strong><br/>
+          <small>Strategic Tech Solutions</small>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 ---
 
 </div>
