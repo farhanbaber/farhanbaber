@@ -49,8 +49,8 @@
 ## 📜 The Odyssey (My Journey)
 
 ### ⚡ Mastery & Foundation
-* **Foundation:** Bio-Science se logic building shuru hui jo Pre-Engineering mein complex problem solving mein badli.
-* **Mastery:** **SMIT** se Full-Stack (MERN) ki professional training hasil ki aur industry-level applications develop kiye.
+* **Foundation:** My journey in logic building began in Bio-Science, providing a unique analytical perspective that evolved into complex problem-solving during my Pre-Engineering studies.
+* **Mastery:**  Acquired professional Full-Stack (MERN) Development training at SMIT, where I transitioned into building high-performance, industry-level applications.
 
 ---
 
